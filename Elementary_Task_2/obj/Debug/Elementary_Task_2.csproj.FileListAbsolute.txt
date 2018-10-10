@@ -1,0 +1,6 @@
+C:\Users\den_a\Desktop\SoftServe\Elementary Tasks\Elementary_Task_2\Elementary_Task_2\bin\Debug\Elementary_Task_2.exe.config
+C:\Users\den_a\Desktop\SoftServe\Elementary Tasks\Elementary_Task_2\Elementary_Task_2\bin\Debug\Elementary_Task_2.exe
+C:\Users\den_a\Desktop\SoftServe\Elementary Tasks\Elementary_Task_2\Elementary_Task_2\bin\Debug\Elementary_Task_2.pdb
+C:\Users\den_a\Desktop\SoftServe\Elementary Tasks\Elementary_Task_2\Elementary_Task_2\obj\Debug\Elementary_Task_2.csprojResolveAssemblyReference.cache
+C:\Users\den_a\Desktop\SoftServe\Elementary Tasks\Elementary_Task_2\Elementary_Task_2\obj\Debug\Elementary_Task_2.exe
+C:\Users\den_a\Desktop\SoftServe\Elementary Tasks\Elementary_Task_2\Elementary_Task_2\obj\Debug\Elementary_Task_2.pdb
