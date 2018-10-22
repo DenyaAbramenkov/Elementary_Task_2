@@ -4,3 +4,10 @@ C:\Users\den_a\Desktop\SoftServe\Elementary Tasks\Elementary_Task_2\Elementary_T
 C:\Users\den_a\Desktop\SoftServe\Elementary Tasks\Elementary_Task_2\Elementary_Task_2\obj\Debug\Elementary_Task_2.csprojResolveAssemblyReference.cache
 C:\Users\den_a\Desktop\SoftServe\Elementary Tasks\Elementary_Task_2\Elementary_Task_2\obj\Debug\Elementary_Task_2.exe
 C:\Users\den_a\Desktop\SoftServe\Elementary Tasks\Elementary_Task_2\Elementary_Task_2\obj\Debug\Elementary_Task_2.pdb
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_2\Elementary_Task_2\bin\Debug\Elementary_Task_2.exe.config
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_2\Elementary_Task_2\bin\Debug\Elementary_Task_2.exe
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_2\Elementary_Task_2\bin\Debug\Elementary_Task_2.pdb
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_2\Elementary_Task_2\obj\Debug\Elementary_Task_2.exe
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_2\Elementary_Task_2\obj\Debug\Elementary_Task_2.pdb
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_2\Elementary_Task_2\obj\Debug\Elementary_Task_2.csprojAssemblyReference.cache
+C:\Users\den_a\Desktop\SoftServe\ElementaryTasks\Elementary_Task_2\Elementary_Task_2\obj\Debug\Elementary_Task_2.csproj.CoreCompileInputs.cache
